@@ -4,6 +4,7 @@
 1. https://browserdefaultstyles.com/ - узнать стандартные стили элемента
 2. https://brumm.af/shadows - генерация плавных теней
 3. https://css.gg/app - 500+ css иконок
+4. https://www.caniemail.com/ - caniuse, только для html писем
 
 ## Accessibility
 1. https://whocanuse.com/ - сервис проверки контраста текста. Помогает понять, как будет выглядеть текст для людей, имеющих различные проблемы по зрением.
