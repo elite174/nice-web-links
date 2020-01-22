@@ -16,3 +16,4 @@
 1. https://www.twilio.com/ - сервис для создания смс-рассылок и прочего
 2. https://webflow.com/ - сервис для быстрого создания прототипов
 3. https://awesomelists.top/ - список списков по разным it-темам
+4. https://explainshell.com/ - объясняет команды shell
