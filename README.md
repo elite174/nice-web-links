@@ -9,6 +9,7 @@
 ## Email CSS
 1. https://www.caniemail.com/ - caniuse, только для html писем
 2. https://www.campaignmonitor.com/css/ - поддержка css свойств
+3. https://caniuse.email/
 
 ## Accessibility
 1. https://whocanuse.com/ - сервис проверки контраста текста. Помогает понять, как будет выглядеть текст для людей, имеющих различные проблемы по зрением.
