@@ -1,5 +1,8 @@
 # Полезные ссылки
 
+## Tools
+1. https://tiny-helpers.dev/ - очень много всего полезного по разным темам
+
 ## CSS
 1. https://browserdefaultstyles.com/ - узнать стандартные стили элемента
 2. https://brumm.af/shadows - генерация плавных теней
