@@ -1,5 +1,8 @@
 # Полезные ссылки
 
+## Web design
+1. http://brutalistwebsites.com/ - подборка сайтов в стиле "брутализм"
+
 ## Editors
 1. https://pixlr.com/x/ - онлайн редактор изображений
 
