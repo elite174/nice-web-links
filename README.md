@@ -31,4 +31,5 @@
 2. https://webflow.com/ - сервис для быстрого создания прототипов
 3. https://awesomelists.top/ - список списков по разным it-темам
 4. https://explainshell.com/ - объясняет команды shell
-1. https://tiny-helpers.dev/ - очень много всего полезного по разным темам
+5. https://tiny-helpers.dev/ - очень много всего полезного по разным темам
+6. https://polypane.app/css-specificity-calculator/ - калькулятор специфичности css-селекторов
