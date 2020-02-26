@@ -12,6 +12,7 @@
 3. https://css.gg/app - 500+ css иконок
 4. https://www.web4college.com/css-play/index.php - 300 css-свойств с примерами и описанием.
 5. https://neumorphism.io/#55b9f3 - генерация объёмных элементов
+6. https://uigradients.com/ - градиенты
 
 
 ## Email CSS
