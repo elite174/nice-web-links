@@ -13,6 +13,7 @@
 4. https://www.web4college.com/css-play/index.php - 300 css-свойств с примерами и описанием.
 5. https://neumorphism.io/#55b9f3 - генерация объёмных элементов
 6. https://uigradients.com/ - градиенты
+7. https://colorscheme.ru/color-converter.html - конвертер цветов
 
 
 ## Email CSS
