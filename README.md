@@ -1,5 +1,9 @@
 # Полезные ссылки
 
+## Learning frontend
+1. https://overreacted.io/
+2. https://whatthefuck.is/
+
 ## Web design
 1. http://brutalistwebsites.com/ - подборка сайтов в стиле "брутализм"
 
