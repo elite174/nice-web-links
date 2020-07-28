@@ -6,6 +6,7 @@
 
 ## Web design
 1. http://brutalistwebsites.com/ - подборка сайтов в стиле "брутализм"
+2. http://www.evernote.design/
 
 ## Editors
 1. https://pixlr.com/x/ - онлайн редактор изображений
