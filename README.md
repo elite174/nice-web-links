@@ -40,3 +40,4 @@
 4. https://explainshell.com/ - объясняет команды shell
 5. https://tiny-helpers.dev/ - очень много всего полезного по разным темам
 6. https://polypane.app/css-specificity-calculator/ - калькулятор специфичности css-селекторов
+7. https://bundlephobia.com/
