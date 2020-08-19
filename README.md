@@ -41,3 +41,4 @@
 5. https://tiny-helpers.dev/ - очень много всего полезного по разным темам
 6. https://polypane.app/css-specificity-calculator/ - калькулятор специфичности css-селекторов
 7. https://bundlephobia.com/
+8. https://omatsuri.app/ - Open source browser tools for everyday use
